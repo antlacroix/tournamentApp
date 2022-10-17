@@ -1,7 +1,5 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import ScoreBoard from "./communs/Page/Scoreboard";
+import ScoreBoard from "./Page/ScoreBoard";
 
 function App() {
   return (

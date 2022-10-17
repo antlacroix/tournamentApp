@@ -1,6 +1,6 @@
 import { Warrior } from "./models";
 
-export const wariors: Warrior[] = [
+export const warriors: Warrior[] = [
   { id: "w01", name: "Louis" },
   { id: "w02", name: "Borris" },
   { id: "w03", name: "Antoine" },
